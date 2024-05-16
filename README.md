@@ -6,3 +6,4 @@ change made by owner
 >>>>>>> newbranch
 changes made 1
 changes made 2
+changes made 3
